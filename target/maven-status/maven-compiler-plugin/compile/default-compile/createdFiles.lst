@@ -1,3 +1,5 @@
+com\firat\service\DemoServiceImpl.class
+com\firat\service\DemoService.class
+com\firat\config\WebAppInitializer.class
 com\firat\config\WebConfig.class
-com\firat\config\WellAppInitializer.class
 com\firat\controller\DemoController.class

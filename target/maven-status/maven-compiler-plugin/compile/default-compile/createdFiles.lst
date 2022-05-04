@@ -1,0 +1,3 @@
+com\firat\config\WebConfig.class
+com\firat\config\WellAppInitializer.class
+com\firat\controller\DemoController.class

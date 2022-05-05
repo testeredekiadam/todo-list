@@ -1,5 +1,12 @@
-com\firat\service\DemoServiceImpl.class
 com\firat\service\DemoService.class
-com\firat\config\WebAppInitializer.class
+com\firat\service\TodoItemService.class
+com\firat\model\TodoItem.class
 com\firat\config\WebConfig.class
 com\firat\controller\DemoController.class
+com\firat\service\TodoItemServiceImpl.class
+com\firat\model\TodoData.class
+com\firat\util\Mappings.class
+com\firat\service\DemoServiceImpl.class
+com\firat\config\WebAppInitializer.class
+com\firat\controller\TodoItemController.class
+com\firat\util\ViewNames.class
